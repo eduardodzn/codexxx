@@ -1,0 +1,12 @@
+{
+  "video_path": "./meu_video.mp4",
+  "transcript_path": "./meu_video.json",
+  "output_dir": "./outputs",
+  "min_clip_duration": 10.0,
+  "max_clip_duration": 45.0,
+  "top_n": 5,
+  "keyword_weights": {
+    "ganhar": 1.4,
+    "melhor": 1.2
+  }
+}
